@@ -22,11 +22,3 @@ $ npm run build
 $ npm start
 ```
 
-## Tests
-
-To run the tests for this this project, simply
-
-```bash
-$ npm install
-$ npm test
-```
